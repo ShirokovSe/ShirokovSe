@@ -1,4 +1,4 @@
-# Hi 
+# Hey!
 My name is Shirokov Serge.  I'm a Junior Data Scientist and ML-engineer from Saint-Petersburg
 
 # My skills
