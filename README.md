@@ -1,3 +1,2 @@
-Hi, my name is Shirokov Serge. 
-I'm studying to be a DL engineer. I'm really keep on DeepLearning. I find it extremly intersting.
-Here you can find my projects.
+Hi, my name is Shirokov Serge.
+I like all things related with data science, machine learning and deep learning
