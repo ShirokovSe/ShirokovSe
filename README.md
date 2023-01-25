@@ -5,7 +5,7 @@ My name is Shirokov Sergey.  I'm a Middle Data Scientist in KazanExpress
 <ul>
   <li>Python</li>
   <li>ClickHouse</li>
-  <li>AirFlow<li>
+  <li>AirFlow</li>
   <li>PyTorch, Computer Vision, Deep Learning</li>
   <li>pandas, numpy, sklearn, scipy, matplotlib, seaborn, xgboost/catboost</li>
   <li>NLP</li>
